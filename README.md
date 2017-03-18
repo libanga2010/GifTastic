@@ -10,6 +10,5 @@
 * You can add a new topic from the form on the right side of the page. The topic will be added to the array of topics and added as a new button
 * The rating of each gif will also appear on the page.
 
-Enjoy it on Heroku: 
 
 
